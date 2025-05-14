@@ -25,4 +25,4 @@
 
 ## Summary
 
-    In conclusion, the logistic regression model made excellent predictions when it comes to classifying loans into 0(safe loans) and 1(high-risk loans). From a bank's perspective it is better to accurately predict high-risk loans to protect its capital in the case of non-payment.
+    In conclusion, the logistic regression model made excellent predictions when it comes to classifying loans into 0(safe loans) and 1(high-risk loans). With a weighted_avg score of 0.99 precision, the model can be used by banks. From a bank's perspective it is better to accurately predict high-risk loans to protect its capital in the case of non-payment.
